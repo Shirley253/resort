@@ -1,8 +1,26 @@
 h1 {
   color: violet;
+  text-align: center;
+  font-size: 45px;
 }
 
 body {
-  font-family: monospace;
+  font-family: cursive;
   background-color: #FFFF7F;
+}
+
+img {
+   center;
+}
+
+p {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 20px;
 }
